@@ -1,4 +1,4 @@
-# ☕ Junior Souza — Desenvolvedor Java  
+# ☕ Junior Souza — Futuro Desenvolvedor Java  
 
 Olá! 👋  
 Sou **Junior Souza**, estudante de **Ciência da Computação** apaixonado por **tecnologia, código limpo e inovação**.  
@@ -6,7 +6,7 @@ Atualmente estou focado em desenvolvimento **Java**, criando sistemas completos 
 
 ---
 
-## 🚀 Tecnologias que domino  
+## 🚀 Tecnologias que domino (Em processo de aprendizado)
 💻 **Linguagens:** Java, Python, SQL  
 🧠 **Paradigmas:** Programação Orientada a Objetos, Estruturas de Dados  
 🎨 **Front-end Java:** Swing, JavaFX  
@@ -27,7 +27,7 @@ Sistema completo de controle de estoque desenvolvido em **Java**, com **POO, Int
 ---
 
 ## 📚 Formação  
-🎓 **Ciência da Computação** — Centro Universitário de Maceió (UNIMA)  
+🎓 **Ciência da Computação** (Em andamento) — Centro Universitário de Maceió (UNIMA)  
 🧾 Certificado Google de Programação  
 📍 Maceió — AL, Brasil  
 
