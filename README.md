@@ -5,7 +5,7 @@ Atualmente focado em **POO, interfaces gráficas (Swing)** e **bancos de dados**
 
 ---
 
-### 💻 Tecnologias
+### 💻 Tecnologias que Estou Buscando Aperfeiçoamento 
 Java • MySQL • SQLite • Python • Git • VS Code  
 
 ---
