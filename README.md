@@ -26,3 +26,12 @@ Java • MySQL • SQLite • Python • Git • VS Code
 Sou estudante de **Ciência da Computação** focado em desenvolvimento **Java** e **Python**.  
 Gosto de criar soluções práticas e acessíveis — principalmente voltadas para **educação e inclusão**.  
 Atualmente estudando **POO**, **estruturas de dados** e **integração com bancos de dados**.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ju1ninh0&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju1ninh0&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
