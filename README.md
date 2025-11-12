@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
 # ☕ Junior Souza  
 
 Desenvolvedor Java em formação ☕ | Estudante de Ciência da Computação (UNIMA) — apaixonado por tecnologia e código limpo.  
