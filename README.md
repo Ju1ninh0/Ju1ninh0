@@ -1,6 +1,6 @@
 # ☕ Junior Souza  
 
-Desenvolvedor (em andamento) **Java** e estudante de **Ciência da Computação** — apaixonado por tecnologia e código limpo.  
+Desenvolvedor (Em andamento) **Java** e estudante de **Ciência da Computação** — apaixonado por tecnologia e código limpo.  
 Atualmente focado em **POO, interfaces gráficas (Swing)** e **bancos de dados**.
 
 ---
