@@ -6,8 +6,8 @@
 
 # ☕ Junior Souza  
 
-Desenvolvedor Java em formação ☕ | Estudante de Ciência da Computação (UNIMA)  
-Atualmente focado em Cybersecurity
+Desenvolvedor Java em formação ☕ | Estudante de Ciência da Computação (UNIMA)
+
 
 ---
 
